@@ -1,3 +1,6 @@
 # docs/
 
-Optional documentation artifacts.
+Documentation artifacts supporting reproducibility.
+
+- FIGURE_MAP.md
+- RANDOMNESS.md

@@ -1,0 +1,10 @@
+{
+  "coating_continuity_p": 0.65,
+  "defect_p": 0.03,
+  "hierarchy_levels": 3,
+  "ic_scale": 1.0,
+  "mean_degree": 3.0,
+  "n_nodes": 400,
+  "seed": 42,
+  "ts": 1.0
+}
