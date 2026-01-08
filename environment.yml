@@ -1,0 +1,12 @@
+name: loofah-sc-sim
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - networkx
+  - pyyaml
+  - matplotlib
+  - pytest
+  - pip

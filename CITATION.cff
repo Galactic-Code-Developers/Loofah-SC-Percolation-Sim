@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Loofah-SC-Percolation-Sim"
+version: "0.1.0"
+date-released: "2026-01-06"
+authors:
+  - family-names: "Valamontes"
+    given-names: "Antonios"
+    affiliation: "Kapodistrian Academy of Science"
+license: "MIT"
+repository-code: "REPLACE_WITH_GITHUB_URL"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Valamontes"
+      given-names: "Antonios"
+  title: "Loofah-Templated Biomorphic Carbon Superconducting Composites: A Simulation-Driven Platform for Percolation-Controlled Transport Predictions"
+  year: 2026
+  notes: "Simulation-first paper; see repository for numerical implementation."
